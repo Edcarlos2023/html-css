@@ -92,6 +92,7 @@ header > p {
     padding-right: 10px; /*deu um espaço entre cada palavra do texto*/
     padding-left: 10px;
     margin: auto; /*centralizou o texto*/
+    padding-bottom: 50;
     text-shadow: 2px 2px 0px black /* sombra no texto*/
     
 }
